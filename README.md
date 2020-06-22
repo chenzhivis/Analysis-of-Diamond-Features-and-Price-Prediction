@@ -43,4 +43,4 @@ The aim of this project is to analyze diamonds features and diamonds prices, fin
 
 ## Project presentation link:
 
-https://docs.google.com/presentation/d/1YXuIXfcZhcGVjATO_c1_hLBSJ684fRFyFeLu2MA_zYQ/edit#slide=id.g8a8fd4c2dc_1_29
+https://docs.google.com/presentation/d/1YXuIXfcZhcGVjATO_c1_hLBSJ684fRFyFeLu2MA_zYQ/edit?usp=sharing
