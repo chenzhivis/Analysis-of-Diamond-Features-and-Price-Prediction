@@ -41,3 +41,6 @@ The aim of this project is to analyze diamonds features and diamonds prices, fin
 
 * Prediction model developed based on Kaggle dataset fit perfectly with Kaggle dataset, but predict higher prices than online sales prices. Normally, online sales prices are lower, this makes sense. And, datasets from different resources many not reflect each other well. Data resources of learn and practices (non-profit) may not have the same trend as data from commercial resources. Before using dataset to make serious modeling and professional prediction, reliability of data resources and type of the data resources shall be considered.
 
+## Project presentation link:
+
+https://docs.google.com/presentation/d/1YXuIXfcZhcGVjATO_c1_hLBSJ684fRFyFeLu2MA_zYQ/edit#slide=id.g8a8fd4c2dc_1_29
