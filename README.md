@@ -14,7 +14,7 @@ Diamonds are commonly seen jewelry and are luxuries to most people. People save 
 
 ## This repository contains the following files:
 
-*  mod2 project1.ipynb, -- the main jupyter notebook containing 6 parts: 1). Data collection, web scraping, data cleaning; 2). Exploratory data analysis, descriptive statistics; 3). Hypothesis testing; 4). Model fitting with multiple linear regression and lasso regression, evaluate models; 5). Futher feature engineering, model improvement; 6). Business/social case analysis & conclusions. 
+*  DiamondPricePredictionandFeatureAnalysis.ipynb, -- the main jupyter notebook containing 6 parts: 1). Data collection, web scraping, data cleaning; 2). Exploratory data analysis, descriptive statistics; 3). Hypothesis testing; 4). Model fitting with multiple linear regression and lasso regression, evaluate models; 5). Futher feature engineering, model improvement; 6). Business/social case analysis & conclusions. 
 
 *  selenium webscraping.ipynb, -- I wrote web scraping code in this notebook to get data from online jewelry sales website. In this, various feature values can be input to scrape the data in the range I desire. 
 
