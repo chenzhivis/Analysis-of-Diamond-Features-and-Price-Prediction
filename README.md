@@ -28,10 +28,11 @@ Diamonds are valuable jewels and well hold their values. People preserved diamon
 ## Some conclusions: 
 
 * In the diamonds market, prices are like exponentially related to carat weight, as the carat weight get larger and larger, price increase faster and faster. One 2 carats diamond are much valuable than 2 one carat diamonds. This relationship is shown in the following plot:
-
 ![image](https://user-images.githubusercontent.com/64159084/92063971-6b419d80-ed6a-11ea-8d6b-96dafa9d62f9.png)
 
-* In reality, top quality diamonds(higher clarity, higher colorless) mainly lay in smaller diamonds range, it is difficult to get larger carat weight high clarity (or high color level) diamonds. Bigger diamonds are more likely to have middle or low clarity or colorless levels
+* In reality, top quality diamonds(higher clarity, higher colorless) mainly lay in smaller diamonds range, it is difficult to get larger carat weight high clarity (or high color level) diamonds. Bigger diamonds are more likely to have middle or low clarity or colorless levels. This fact can be demonstrated in the following 2 plots:
+![image](https://user-images.githubusercontent.com/64159084/92064144-e1460480-ed6a-11ea-9bdf-67c5df07fa9d.png)
+![image](https://user-images.githubusercontent.com/64159084/92064154-ea36d600-ed6a-11ea-9cbc-ec26b05b2149.png)
 
 * Pure dimensions (x,y,z) are usually not cared in diamonds selection, since carat weight value can represent them. But the shape matters, so L/W and depth are important features that can affect diamonds prices.
 
