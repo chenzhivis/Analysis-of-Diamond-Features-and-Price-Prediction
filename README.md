@@ -34,15 +34,15 @@ Diamonds are valuable jewels and well hold their values. People preserved diamon
 ![image](https://user-images.githubusercontent.com/64159084/92064144-e1460480-ed6a-11ea-9bdf-67c5df07fa9d.png)
 ![image](https://user-images.githubusercontent.com/64159084/92064154-ea36d600-ed6a-11ea-9cbc-ec26b05b2149.png)
 
-* Pure dimensions (x,y,z) are usually not cared in diamonds selection, since carat weight value can represent them. But the shape matters, so L/W and depth are important features that can affect diamonds prices.
+* Pure dimensions (x,y,z) of diamonds are usually not cared in diamonds selection, since carat weight value can represent them. But the shape matters, the L/W and depth are important features that can affect diamonds prices.
 
 * Overall speaking, middle color level and middle clarity level have the most percentage in all levels.
 
 * There is statistically significant difference in carat weight of diamonds with different cut levels, there is statistical significant difference in prices of diamonds with different color levels.
 
-* There is relationship between the distributions of diamond clairity levels category and the color levels category (they are not independent), this is determined by diamonds forming mechanism and processing.
+* There is relationship between the distributions of diamond clairity levels category and the color levels category (they are not independent), this is determined by diamonds forming mechanism and processing underground.
 
-* Prediction model developed based on Kaggle dataset fit perfectly with Kaggle dataset, but predict higher prices than online sales prices. Normally, online sales prices are lower, this makes sense. And, datasets from different resources many not reflect each other well. Data resources of learn and practices (non-profit) may not have the same trend as data from commercial resources. Before using dataset to make serious modeling and professional prediction, reliability of data resources and type of the data resources shall be considered.
+* Prediction model developed with Kaggle dataset can predict the diamonds' prices accurately with data in kaggle dataset. But when predicting prices of diamonds on online retailers' websites, results are higher than online sales prices. Nevertheless, we can clearly see that the trends are similar. Normally, online sales prices are lower, this makes sense. And, datasets from different resources many not reflect each other very well. 
 
 ## Project presentation link:
 
