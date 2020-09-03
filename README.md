@@ -1,22 +1,21 @@
-# Analysis of Diamond Attributes and Price Prediction
+# Diamonds Price Prediction and Feature Analysis
 
 ## Brief Background
-Diamonds are commonly seen jewelry and are luxuries to most people. People save money to purchase for important events in life. We all know that diamonds' prices are determined by size, clarity, color, etc. But how to determine the price for a diamond? When purchasing, people usually make serious considerations since it is big spent money.
+Diamonds are valuable jewels and well hold their values. People preserved diamond jewelry for very long time after purchase. We all heard about some diamonds' attributes like size, clarity, etc, but how are diamonds' values (price) determined? Nowadays, there are online diamonds retail websites. Are those online stores better choices? People usually make serious considerations since it is big money.
 
 ## My Aim: 
-1. The goals of this project are to establish machine learning model to predict diamonds prices, and use the model to check if online diamonds retailer websites have better prices or are overcharging people.
+1. The goals of this project are to establish machine learning model to predict diamonds prices, and use the model to check if online diamonds retailer websites have better prices or overcharge people.
 2. In this project, various attributes of diamonds are analyzed by EDA, descriptive statistics and statistical tests to see how they influence values of diamonds. Also, prediction models are evaluated by RMSE and Z-Score to get the best model.
-3. There are 2 resources of data: --(1) Kaggle.com dataset, prediction model will be build up based on this dataset; --(2) Web scraping diamonds data from www.bluenile.com , I will use the prediction model to predict prices of diamonds on www.bluenile.com, compare the prediction results with the prices listed on the website.
 
 ## Resources: There are 2 resources of data:
 --(1) __Kaggle.com dataset__, prediction models are built up based on the dataset from Kaggle; 
---(2) __Web scraping diamonds data from www.bluenile.com__ , diamonds' features and prices data from www.bluenile.com are scraped and evaluated with the machine learning model
+--(2) __Web scraping diamonds data by Selenium from www.bluenile.com__ , diamonds' features and prices data from www.bluenile.com are scraped and evaluated with the machine learning model
 
 ## This repository contains the following files:
 
 *  DiamondPricePredictionandFeatureAnalysis.ipynb, -- the main jupyter notebook containing 6 parts: 1). Data collection, web scraping, data cleaning; 2). Exploratory data analysis, descriptive statistics; 3). Hypothesis testing; 4). Model fitting with multiple linear regression and lasso regression, evaluate models; 5). Futher feature engineering, model improvement; 6). Business/social case analysis & conclusions. 
 
-*  selenium webscraping.ipynb, -- I wrote web scraping code in this notebook to get data from online jewelry sales website. In this, various feature values can be input to scrape the data in the range I desire. 
+*  selenium webscraping.ipynb, -- Web scraping code in this notebook to get data from online jewelry sales website. In this, various feature values can be input to scrape the data in the range I desire. 
 
 *  diamonds.csv, -- the dataset downloaded from kaggle.com, I used this dataset to establish my prediction model. 
 
