@@ -25,6 +25,8 @@ Diamonds are valuable jewels and well hold their values. People preserved diamon
 
 *  diamondpredict.sav -- the final prediction model I saved using pickle, for future use.
 
+*  Price Prediction and Feature Analysis.pdf -- the presentation of this project
+
 ## Some conclusions: 
 
 * In the diamonds market, prices are like exponentially related to carat weight, as the carat weight get larger and larger, price increase faster and faster. One 2 carats diamond are much valuable than 2 one carat diamonds. This relationship is shown in the following plot:
